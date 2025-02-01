@@ -5594,10 +5594,10 @@ This project exists thanks to all the people who've helped build and maintain it
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/AshboDev">
-            <img src="https://avatars.githubusercontent.com/u/14421977?v=4" width="80;" alt="AshboDev"/>
+        <a href="https://github.com/spignelon">
+            <img src="https://avatars.githubusercontent.com/u/92091338?v=4" width="80;" alt="spignelon"/>
             <br />
-            <sub><b>Ash Scott</b></sub>
+            <sub><b>Ujjawal Saini</b></sub>
         </a>
     </td>
     <td align="center">
