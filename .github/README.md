@@ -5594,6 +5594,13 @@ This project exists thanks to all the people who've helped build and maintain it
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/0xrivst">
+            <img src="https://avatars.githubusercontent.com/u/69579692?v=4" width="80;" alt="0xrivst"/>
+            <br />
+            <sub><b>Alex</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/spignelon">
             <img src="https://avatars.githubusercontent.com/u/92091338?v=4" width="80;" alt="spignelon"/>
             <br />
@@ -5627,15 +5634,15 @@ This project exists thanks to all the people who've helped build and maintain it
             <br />
             <sub><b>Zhymabek Roman</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/baddate">
             <img src="https://avatars.githubusercontent.com/u/37013819?v=4" width="80;" alt="baddate"/>
             <br />
             <sub><b>Sanmonji</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/azzamsa">
             <img src="https://avatars.githubusercontent.com/u/17734314?v=4" width="80;" alt="azzamsa"/>
@@ -5669,13 +5676,6 @@ This project exists thanks to all the people who've helped build and maintain it
             <img src="https://avatars.githubusercontent.com/u/101060148?v=4" width="80;" alt="magical-heyrovsky"/>
             <br />
             <sub><b>Magical-heyrovsky</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/mrpavan">
-            <img src="https://avatars.githubusercontent.com/u/20220426?v=4" width="80;" alt="mrpavan"/>
-            <br />
-            <sub><b>Pavan</b></sub>
         </a>
     </td></tr>
 </table>
